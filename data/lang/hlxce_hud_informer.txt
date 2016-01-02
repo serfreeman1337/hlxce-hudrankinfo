@@ -1,0 +1,12 @@
+[ru]
+HLXINF_MESSAGE = %a [%d/%d]
+HLXINF_WATCH_PLAYER = Игрок: %s
+HLXINF_NEWLEVEL_ALL = Солдат ^3%s^1 достиг ранга ^4%a^1. Поздравляем!
+HLXINF_NEWLEVEL_ID = Вы заслужили повышение - ^4%a^1. Поздравляем!
+
+[en]
+HLXINF_MESSAGE = %a [%d/%d]
+HLXINF_WATCH_PLAYER = Player: %s
+
+HLXINF_NEWLEVEL_ALL = Soldier ^3%s^1 has been promoted to the ^4%a^1 rank. Congratulations!
+HLXINF_NEWLEVEL_ID = ^4Congratulations!^1 You has been promoted to the ^4%a^1 rank.
